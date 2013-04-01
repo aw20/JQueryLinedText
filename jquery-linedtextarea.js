@@ -1,6 +1,6 @@
 /**
  * jQuery Lined Textarea Plugin 
- *   http://alan.blog-city.com/jquerylinedtextarea.htm
+ *   https://github.com/aw20/JQueryLinedText
  *
  * Copyright (c) 2010 Alan Williamson
  * 
